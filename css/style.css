@@ -1,0 +1,20 @@
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+  }
+body{
+    background-color: rgb(234, 237, 241);
+    margin: 30px;
+}
+h3 {
+    color: royalblue; font-size: 14;
+}
+li{
+    color: darkblue; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.section{
+    border: 2px; 
+}
+h1{
+    color: darkblue
+}
